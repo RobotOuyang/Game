@@ -1,2 +1,2 @@
 # Game
-Game developed with pomelo.
+try to develop game with pomelo.
