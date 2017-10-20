@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="LuaFramework_UGUI-1.0.4.109.CSharp.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\LuaFramework\Scripts\Manager\LuaManager.cs">
+    <Files>
+      <File FileName="Assets\LuaFramework\Scripts\Manager\LuaManager.cs" Line="19" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\LuaFramework_UGUI-1.0.4.109\Assets\LuaFramework\Scripts\Manager\LuaManager.cs" line="39" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

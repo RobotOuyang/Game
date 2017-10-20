@@ -1,0 +1,21 @@
+{
+    "group": "WeChat",
+    "libs": [
+    		"libc++.tbd",
+    		"libz.tbd",
+            "libsqlite3.0.tbd",
+    		],
+    "frameworks": [
+                    "SystemConfiguration.framework",
+                    "WebKit.framework",
+    			 ],
+    "headerpaths": [],
+    "files":   [
+                ],
+    "folders": [
+    			],
+    			    
+    "excludes": ["^.*.meta$", "^.*.mdown$", "^.*.pdf$"],
+    "linker_flags": [],
+    "compiler_flags": [],  
+}

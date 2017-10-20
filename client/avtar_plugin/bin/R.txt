@@ -1,0 +1,4 @@
+int id imageID 0x7f040000
+int layout main 0x7f020000
+int string WX_APP_ID 0x7f030001
+int string hello 0x7f030000
